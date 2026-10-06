@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2025",
+        "module": "nodenext",
+        "moduleResolution": "nodenext",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "rootDir": "./",
+        "outDir": "./dist",
+    },
+    "include": ["./**/*.ts"],
+}
